@@ -1,0 +1,13 @@
+.headind{
+    width: 573px;
+height: 75px;
+flex-shrink: 0;
+color: rgba(255, 255, 255, 0.70);
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 113.333% */
+letter-spacing: -0.4px;
+}

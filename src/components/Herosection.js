@@ -1,9 +1,10 @@
 import React from 'react'
+import hero from '../assets/images/Group 167.png';
 
 const Herosection = () => {
   return (
     <div>
-      <h2>Herosection</h2>
+      <img src={hero} alt='' />
     </div>
   )
 }
